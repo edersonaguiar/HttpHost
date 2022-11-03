@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/http-core-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/httpclient-4.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/httpclient-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/java-net-http-request-factory-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/spring-beans-5.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/spring-core-5.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/spring-jcl-5.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Documents/spring-web-5.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/edesilva/Downloads/okhttp-3.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
